@@ -61,7 +61,7 @@ I've worked on full-stack applications involving authentication, real-time commu
 ### Development & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=github ,vscode ,vercel" />
 </p>
 
 **GitHub   · VS Code   · Vercel   · Render**
