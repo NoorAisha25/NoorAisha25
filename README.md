@@ -37,7 +37,7 @@ I've worked on full-stack applications involving authentication, real-time commu
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,python,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,mysql" />
 </p>
 
 **C++    · SQL**
