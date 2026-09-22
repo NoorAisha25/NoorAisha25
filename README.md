@@ -31,7 +31,7 @@ I've worked on full-stack applications involving authentication, real-time commu
 -  Real-Time Web Applications
 
 ---
-
+<div align="center">
 # Technical Skills
 
 ### Programming Languages
@@ -70,7 +70,7 @@ I've worked on full-stack applications involving authentication, real-time commu
 
 `REST APIs` · `JWT` · `Google OAuth` · `OTP Authentication`  
 `Socket.io` · `WebSockets` · `OpenAI API`
-
+</div>
 ---
 
 # Computer Science
