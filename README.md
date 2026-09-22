@@ -31,7 +31,7 @@ I've worked on full-stack applications involving authentication, real-time commu
 -  Real-Time Web Applications
 
 ---
-<div align="center">
+
 # Technical Skills
 
 ### Programming Languages
@@ -40,7 +40,7 @@ I've worked on full-stack applications involving authentication, real-time commu
 <img src="https://skillicons.dev/icons?i=cpp,js,python,mysql" />
 </p>
 
-**C++ · SQL**
+**C++    · SQL**
 
 ### Web Development
 
@@ -48,7 +48,7 @@ I've worked on full-stack applications involving authentication, real-time commu
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
-**HTML5 · CSS3 · JavaScript · React.js · Node.js · Express.js**
+**HTML5   · CSS3   · JavaScript   · React.js   · Node.js   · Express.js**
 
 ### Databases & Cloud
 
@@ -56,7 +56,7 @@ I've worked on full-stack applications involving authentication, real-time commu
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
 
-**MongoDB Atlas · MySQL · Cloudinary**
+**MongoDB Atlas   · MySQL   · Cloudinary**
 
 ### Development & Deployment
 
@@ -64,13 +64,12 @@ I've worked on full-stack applications involving authentication, real-time commu
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
-**GitHub · VS Code · Vercel · Render**
+**GitHub   · VS Code   · Vercel   · Render**
 
 ### APIs & Application Technologies
 
-`REST APIs` · `JWT` · `Google OAuth` · `OTP Authentication`  
-`Socket.io` · `WebSockets` · `OpenAI API`
-</div>
+`REST APIs`   · `JWT`   · `Google OAuth`   · `OTP Authentication`   · `Socket.io`   · `WebSockets`   · `OpenAI API`
+
 ---
 
 # Computer Science
